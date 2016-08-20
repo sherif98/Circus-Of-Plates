@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<GameObjects>
+	<object name = "clown" path = "res/clown2.png" />
+	<object name = "backGround" path = "res/backGround3.jpg" />
+	<object name = "belt1" path = "res/Untitledsmall.png" />
+	
+</GameObjects>

@@ -1,0 +1,4 @@
+<Themes>
+	<Theme name="game.model.ThemeOne" path="Default" />
+	<Theme name="BallTheme" path = "Themes/BallTheme2.jar" />
+</Themes>

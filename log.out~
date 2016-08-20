@@ -1,0 +1,65 @@
+2015-12-24 01:23:53 INFO  Resources:33 - put colors in color ArrayList to color shapes 
+2015-12-24 01:23:53 INFO  XMLParser:39 - Load all themes name from xml
+2015-12-24 01:23:53 INFO  Resources:54 - load all themes
+2015-12-24 01:23:53 INFO  Logger:38 - load classes from Themes/BallTheme2.jarwhich implementsgame.model.Theme
+2015-12-24 01:23:53 INFO  Logger:39 - classes are loaded[class game.model.BallTheme2]
+2015-12-24 01:23:53 INFO  Resources:81 - load a randam theme in class
+2015-12-24 01:23:53 DEBUG MyImage:14 - Create MyImage object with name clown
+2015-12-24 01:23:54 DEBUG MyImage:14 - Create MyImage object with name backGround
+2015-12-24 01:23:54 DEBUG MyImage:14 - Create MyImage object with name belt1
+2015-12-24 01:23:54 INFO  Resources:92 - load all Images
+2015-12-24 01:23:54 INFO  XMLParser:39 - Load all themes name from xml
+2015-12-24 01:23:54 INFO  Logger:38 - load classes from plugin/Rectangle.jarwhich implementsgame.model.Shape
+2015-12-24 01:23:54 INFO  Logger:39 - classes are loaded[class game.model.Rectangle]
+2015-12-24 01:23:54 INFO  Logger:38 - load classes from plugin/Ellipse.jarwhich implementsgame.model.Shape
+2015-12-24 01:23:54 INFO  Logger:39 - classes are loaded[class game.model.Ellipse]
+2015-12-24 01:23:54 INFO  Resources:123 - load all shapes and color them
+2015-12-24 01:23:54 DEBUG BackGround:22 - BackGround settrue
+2015-12-24 01:23:54 DEBUG ImageFactory:18 - image matches name 'backGround'and returned 
+2015-12-24 01:23:54 INFO  BackGround:26 - get back ground image from resources and put it
+2015-12-24 01:23:54 DEBUG LeftBelt:39 - x was set0
+2015-12-24 01:23:54 DEBUG LeftBelt:52 - y was se50
+2015-12-24 01:23:54 DEBUG LeftBelt:23 - x , y of belt is 0,50
+2015-12-24 01:23:54 INFO  LeftBelt:25 - belt set visible in constractor
+2015-12-24 01:23:54 DEBUG ImageFactory:18 - image matches name 'belt1'and returned 
+2015-12-24 01:23:54 INFO  LeftBelt:28 - get belt image from resources
+2015-12-24 01:23:54 DEBUG LeftBelt:39 - x was set0
+2015-12-24 01:23:54 DEBUG LeftBelt:52 - y was se350
+2015-12-24 01:23:54 DEBUG LeftBelt:23 - x , y of belt is 0,350
+2015-12-24 01:23:54 INFO  LeftBelt:25 - belt set visible in constractor
+2015-12-24 01:23:54 DEBUG ImageFactory:18 - image matches name 'belt1'and returned 
+2015-12-24 01:23:54 INFO  LeftBelt:28 - get belt image from resources
+2015-12-24 01:23:54 DEBUG LeftBelt:39 - x was set0
+2015-12-24 01:23:54 DEBUG LeftBelt:52 - y was se200
+2015-12-24 01:23:54 DEBUG LeftBelt:23 - x , y of belt is 0,200
+2015-12-24 01:23:54 INFO  LeftBelt:25 - belt set visible in constractor
+2015-12-24 01:23:54 DEBUG ImageFactory:18 - image matches name 'belt1'and returned 
+2015-12-24 01:23:54 INFO  LeftBelt:28 - get belt image from resources
+2015-12-24 01:23:54 DEBUG RightBelt:39 - x was set1100
+2015-12-24 01:23:54 DEBUG RightBelt:52 - y was se400
+2015-12-24 01:23:54 DEBUG RightBelt:23 - x , y of belt is 1100,400
+2015-12-24 01:23:54 INFO  RightBelt:25 - belt set visible in constractor
+2015-12-24 01:23:54 DEBUG ImageFactory:18 - image matches name 'belt1'and returned 
+2015-12-24 01:23:54 INFO  RightBelt:28 - get belt image from resources
+2015-12-24 01:23:54 DEBUG RightBelt:39 - x was set1100
+2015-12-24 01:23:54 DEBUG RightBelt:52 - y was se50
+2015-12-24 01:23:54 DEBUG RightBelt:23 - x , y of belt is 1100,50
+2015-12-24 01:23:54 INFO  RightBelt:25 - belt set visible in constractor
+2015-12-24 01:23:54 DEBUG ImageFactory:18 - image matches name 'belt1'and returned 
+2015-12-24 01:23:54 INFO  RightBelt:28 - get belt image from resources
+2015-12-24 01:23:54 DEBUG RightBelt:39 - x was set1100
+2015-12-24 01:23:54 DEBUG RightBelt:52 - y was se200
+2015-12-24 01:23:54 DEBUG RightBelt:23 - x , y of belt is 1100,200
+2015-12-24 01:23:54 INFO  RightBelt:25 - belt set visible in constractor
+2015-12-24 01:23:54 DEBUG ImageFactory:18 - image matches name 'belt1'and returned 
+2015-12-24 01:23:54 INFO  RightBelt:28 - get belt image from resources
+2015-12-24 01:23:54 DEBUG ImageFactory:18 - image matches name 'clown'and returned 
+2015-12-24 01:23:54 INFO  Clown:43 - get Clown image from resources
+2015-12-24 01:23:54 DEBUG Clown:50 - set x , y for clown 623,550
+2015-12-24 01:23:54 DEBUG MyStack:38 - current State of stack isDirty state
+2015-12-24 01:23:54 DEBUG MyStack:46 - image was set for stack
+2015-12-24 01:23:54 DEBUG MyStack:38 - current State of stack isDirty state
+2015-12-24 01:23:54 DEBUG MyStack:46 - image was set for stack
+2015-12-24 01:23:54 DEBUG MyStack:38 - current State of stack isDirty state
+2015-12-24 01:23:54 DEBUG MyStack:46 - image was set for stack
+2015-12-24 01:23:54 INFO  Clown:60 - create 3 stacks and put them in MovableObjects ArrayList

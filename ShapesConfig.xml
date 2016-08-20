@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Shapes>
+	<object name = "rec" path = "plugin/Rectangle.jar" />
+	<object name = "ell" path = "plugin/Ellipse.jar" />
+</Shapes>
